@@ -10,7 +10,7 @@ $(document).ready(function(){
 				alert("data submited")
 			}
 		});
-		$(this).html("git");
+		$(this).html("test");
 		$(this).siblings("button").html("Dislike");
 		$(this).siblings("button").attr("disabled", false);
 		$(this).attr("disabled", true);

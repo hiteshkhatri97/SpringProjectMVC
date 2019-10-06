@@ -11,6 +11,7 @@ $(document).ready(function(){
 			}
 		});
 		$(this).html("git");
+		$(this).html("demo");
 		$(this).siblings("button").html("Dislike");
 		$(this).siblings("button").attr("disabled", false);
 		$(this).attr("disabled", true);

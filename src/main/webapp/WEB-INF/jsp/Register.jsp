@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Git is good</title>
+<title>Git is awesome</title>
 </head>
 <body>
 	

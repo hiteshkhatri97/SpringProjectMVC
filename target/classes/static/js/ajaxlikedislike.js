@@ -9,8 +9,14 @@ $(document).ready(function(){
 			success : function(){
 				alert("data submited")
 			}
+<<<<<<< HEAD
 		});
 		$(this).html("test");
+=======
+		});
+		$(this).html("git");
+		$(this).html("demo");
+>>>>>>> branch 'master' of https://github.com/hiteshkhatri97/SpringProjectMVC.git
 		$(this).siblings("button").html("Dislike");
 		$(this).siblings("button").attr("disabled", false);
 		$(this).attr("disabled", true);
